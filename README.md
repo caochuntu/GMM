@@ -14,5 +14,3 @@ This folder contains the datasets used to evaluate the performance of the propos
 - GMM source code
 
 This folder contains the source code of our proposed algorithm. Once the paper is accepted, we will add step by step guidance and line by line description such that the future researchers could easily adopt our code.
-
-Datasets could also be found online by [clicking here](https://zenodo.org/record/57731#.Y9tu2XbP2Hs).
