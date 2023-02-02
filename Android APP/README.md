@@ -3,3 +3,5 @@
 -------------------------------------------------------------------------------
 
 This folder contains the source code of the Android APP used to collect local mobility trajectories. Please find the main activity screenshot below.
+
+![MarineGEO circle logo](./screenshot.png "MarineGEO logo")
